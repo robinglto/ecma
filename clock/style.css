@@ -1,0 +1,16 @@
+html, body{
+    height: 100%;
+}
+
+body{
+    display: flex;;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+}
+
+h1{
+    color: white;
+    font-size: xx-large;;
+    font-weight: 250;
+}
